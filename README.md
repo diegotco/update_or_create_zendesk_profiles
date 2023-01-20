@@ -21,6 +21,9 @@ You can choose any of the following options:
 <li>Create a .env file, and configure the following values like this:<br>
 https://user-images.githubusercontent.com/22822405/213588471-778977e6-e33f-4e17-8ef6-2efe8914cb84.png
 </li>
+<li>To update a user profile go to the "updating_users_in_zd.py" file and change the following info for your own:<br>
+https://user-images.githubusercontent.com/22822405/213593013-1de8ad8b-3f29-4396-a3d8-739cf1281a0f.png
+
 </ul>
 
 #### C) To UPDATE a user profile in Zendesk.
