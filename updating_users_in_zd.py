@@ -58,7 +58,7 @@ for id in id_list:
         print('Status:', response.status_code, 'Problem with the request. Exiting.')
         exit()
 
-    # A) Convertin the JSON object into a Python dictionary for further modifications.
+    # A) Converting the JSON object into a Python dictionary for future modifications.
     json_object = response.json()
 
     # The following two dictionary updates are only examples. You should check your own data and change de data that you want.
