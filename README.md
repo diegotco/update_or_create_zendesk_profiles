@@ -1,6 +1,6 @@
 ## What this program does?
 
-<li>This program updates or create a Zendesk profile.</li>
+<li>This program updates or create a Zendesk user profile.</li>
 <br>
 
 
